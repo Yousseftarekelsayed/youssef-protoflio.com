@@ -2,10 +2,12 @@
 
 ## age: 9
 
-**skills**
+### skills
 
-html
+**html**
 
-css
+**css**
 
-seo
+**js**
+
+**seo**
