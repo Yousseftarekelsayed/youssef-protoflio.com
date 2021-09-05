@@ -1,4 +1,3 @@
-title = "Menu button"
 # name: Youssef tarek
 
 ## age: 9
