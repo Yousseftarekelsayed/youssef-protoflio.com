@@ -3,6 +3,7 @@
   <meta name="keywords" content="youssef">
   <meta name="author" content="youssef tarek">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color">
   
 # name: Youssef tarek
 
