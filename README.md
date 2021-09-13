@@ -5,7 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color">
   <meta name="description" content="youssef">
-
+<script>
+ document.cookie = ("name=yousseftarekelsayed");
+ document.cookie = ("age=9");
+ document.cookie = ("FavColor=blue");
+ </script>
 # name: Youssef tarek
 
 ## age: 9
