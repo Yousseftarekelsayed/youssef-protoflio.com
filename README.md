@@ -9,6 +9,7 @@
  document.cookie = ("name=yousseftarekelsayed");
  document.cookie = ("age=9");
  document.cookie = ("FavColor=blue");
+ document.cookie = ("skills=html,css,javascript,seo");
  </script>
 # name: Youssef tarek
 
